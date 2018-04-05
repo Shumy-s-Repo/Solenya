@@ -1,2 +1,2 @@
-# Solenya.github.io
+# Solenya
 Pickle Rick
